@@ -1,0 +1,12 @@
+C:\Users\Pemo\eclipse-workspace\opencartv121\src\test\java\pageObjects\AccountRegistrationPage.java
+C:\Users\Pemo\eclipse-workspace\opencartv121\src\test\java\pageObjects\BasePage.java
+C:\Users\Pemo\eclipse-workspace\opencartv121\src\test\java\pageObjects\HomePage.java
+C:\Users\Pemo\eclipse-workspace\opencartv121\src\test\java\pageObjects\LoginPage.java
+C:\Users\Pemo\eclipse-workspace\opencartv121\src\test\java\pageObjects\MyAccountPage.java
+C:\Users\Pemo\eclipse-workspace\opencartv121\src\test\java\testBase\BaseClass.java
+C:\Users\Pemo\eclipse-workspace\opencartv121\src\test\java\testCases\TC01_AccountRegistration.java
+C:\Users\Pemo\eclipse-workspace\opencartv121\src\test\java\testCases\TC02_LoginTest.java
+C:\Users\Pemo\eclipse-workspace\opencartv121\src\test\java\testCases\TC03_LoginTest_DDT.java
+C:\Users\Pemo\eclipse-workspace\opencartv121\src\test\java\utilities\DataProviders.java
+C:\Users\Pemo\eclipse-workspace\opencartv121\src\test\java\utilities\ExcelUtils.java
+C:\Users\Pemo\eclipse-workspace\opencartv121\src\test\java\utilities\ExtentReportManager.java
